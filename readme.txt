@@ -28,8 +28,9 @@ The postcode based order restriction plugin has been tested with the current ver
 3. In the WordpPress admin panel go to WooCommerce settings and then into the general tab you find "Postcode Based Order Restriction" section.
 
 == Screenshots ==
-1. The configuration of the plugin with the Postcode Based Order Restriction
-2. Order restriction based on specific zip/post codes in checkout
+1. The configuration of the plugin with the Postcode Based Order Restriction.
+2. Order restriction based on specific zip/post codes in checkout for gateways.
+3. Order restriction based on specific zip/post codes in checkout for place order.
 
 == Changelog ==
 
